@@ -5,7 +5,6 @@ require 'httparty'
 require 'zlib'
 require 'stringio'
 
-
 GET_RECORDS = 'GET'
 CREATE_RECORD = 'POST'
 
